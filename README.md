@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **data analytics, learning, how to be an entrepreneur.**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/1/folders/1tKmcYwOzV3qYXDFZaCl2-FPxV6iMT7B4](https://drive.google.com/drive/u/1/folders/1tKmcYwOzV3qYXDFZaCl2-FPxV6iMT7B4)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1SAncoUHxsyq9lpsMTFFP4KE0yZra1CSR/view?usp=sharing](https://drive.google.com/file/d/1SAncoUHxsyq9lpsMTFFP4KE0yZra1CSR/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
