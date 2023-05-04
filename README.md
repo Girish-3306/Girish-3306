@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **writing content and building communities.**
 
-- 💬 Ask me about **data analytics, learning, how to be an entrepreneur.**
+- 💬 Ask me about **data analytics, learning, how to be an entrepreneur .**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1SAncoUHxsyq9lpsMTFFP4KE0yZra1CSR/view?usp=sharing](https://drive.google.com/file/d/1SAncoUHxsyq9lpsMTFFP4KE0yZra1CSR/view?usp=sharing)
 
