@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">
 
-- 🔭 I’m currently working on **Power Bi in order to create an effective dashboards for my organization**
+- 🔭 I’m currently working on **Power Bi in order to create an effective dashboards for my organization.**
 
 - 🌱 I’m currently learning **about Data Science tools, techniques, AI,ML,NLP, and how to write.**
 
